@@ -66,3 +66,5 @@ FONT = font.Font(family ="Times New Roman", size ="10", weight ="bold")
 TEXT="1.Only public account reels can be downloaded\n2.Enter the link address of reel from the Instagram\n3.This is not meant to be used for mischeif"
 label2 = Label(frame, text = TEXT, font =FONT, bd =5, fg= "#cd486b",justify=LEFT,bg="white")
 label2.place(relx = 0.48, rely = 0.7, relheight =0.1
+             
+             (copied)
